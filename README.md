@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [genioussonu.netlify.app](genioussonu.netlify.app)
 
-- 📫 How to reach me **sahinur@wefik.in**
+- 📫 How to reach me **sahinurislam2002@yahoo.com**
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 ### Blogs posts
