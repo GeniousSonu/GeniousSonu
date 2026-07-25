@@ -113,9 +113,7 @@ contact: sahinurislam2002@yahoo.com
 
 <img src="https://streak-stats.demolab.com/?user=genioussonu&theme=tokyonight&hide_border=true" width="49%"/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=genioussonu&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
-</a>
+[![trophy](https://github-profile-trophy-winning.vercel.app/?username=genioussonu&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=genioussonu&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
