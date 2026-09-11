@@ -29,7 +29,7 @@ focus:
   - Exploring offensive & defensive security
   - Clean architecture and DX-first engineering
 currently_learning: Advanced System Design & Cloud Security
-portfolio: genioussonu.netlify.app
+portfolio: genioussonu.me
 contact: sahinurislam2002@yahoo.com
 ```
 
@@ -134,7 +134,7 @@ contact: sahinurislam2002@yahoo.com
 </p>
 
 <p align="center">
-  🔗 Portfolio: <a href="https://genioussonu.netlify.app"><b>genioussonu.netlify.app</b></a>
+  🔗 Portfolio: <a href="https://www.genioussonu.me"><b>genioussonu.me</b></a>
 </p>
 
 <div align="center">
